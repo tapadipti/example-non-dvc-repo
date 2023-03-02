@@ -1,3 +1,6 @@
+gs-model:
+  path: models/model.pkl
+  type: model
 new-model-name:
   path: new-model
   type: model
