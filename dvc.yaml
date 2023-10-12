@@ -1,0 +1,4 @@
+artifacts:
+  a11:
+    path: a11
+    type: model
